@@ -1,0 +1,5 @@
+using Humanizer;
+
+Console.WriteLine("hello world".Titleize());
+Console.WriteLine(DateTime.Now.AddHours(-3).Humanize());
+dotnet run hello.cs
