@@ -1,3 +1,6 @@
 appsettings*.Secret.json
 *.env
 *.pem
+bin/
+obj/
+.vs/
